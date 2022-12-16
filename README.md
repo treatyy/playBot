@@ -7,7 +7,8 @@ Simple play bot for streaming services. Intended for Spotify but can be used for
 
 ✔️ Written from scratch in C++. I am new to C++, please don't murder me.
 
-If you encounter any issues, please post them in Issues and I will address them.
+
+What this software has been tested on:
 
 ✔️ This was ran on a 1920x1080 monitor. Other resolutions may require tweaking of the code (including the "Don't change this" code).
 
@@ -17,4 +18,4 @@ If you encounter any issues, please post them in Issues and I will address them.
 
 ✔️ Open one blank chrome tab before running the software.
 
-Enjoy.
+Enjoy. If you encounter any issues, please post them in Issues and I will address them.
