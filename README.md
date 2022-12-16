@@ -10,8 +10,11 @@ Simple play bot for streaming services. Intended for Spotify but can be used for
 If you encounter any issues, please post them in Issues and I will address them.
 
 ✔️ This was ran on a 1920x1080 monitor. Other resolutions may require tweaking of the code (including the "Don't change this" code).
+
 ✔️ Chrome is needed by default, but can be changed.
+
 ✔️ Tested on Spotify Premium. Must be logged in to Spotify on Chrome, Premium should not be a nescessity.
+
 ✔️ Open one blank chrome tab before running the software.
 
 Enjoy.
